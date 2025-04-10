@@ -1,0 +1,21 @@
+# Gradle
+*/build/
+/.gradle/
+build/
+
+# IntelliJ
+.idea/
+*.iml
+
+# System
+.DS_Store
+
+# Logs
+*.log
+
+# Java
+*.class
+
+# Security
+application.yml
+.env
